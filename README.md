@@ -1,0 +1,1 @@
+# CharaAI_AutomaScript
