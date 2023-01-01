@@ -1,4 +1,4 @@
-# CharaAI_AutomaScript
+# CharacterAI_BiliLive_AutomaScript
 ## ⚠Shitty code alert.⚠
 ## Feature
 - [x] Fetch comment from the bilibili live, send it to character.ai waifu(?), and get the reply.
