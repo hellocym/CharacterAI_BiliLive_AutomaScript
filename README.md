@@ -1,4 +1,8 @@
 # CharacterAI_BiliLive_AutomaScript
+---
+$$ \huge\mathcal{My\ first\ steps\ towards\ full\ AI\ waifu.} $$ 
+
+---
 ## ⚠Shitty code alert.⚠
 ## Feature
 - [x] Fetch comment from the bilibili live, send it to character.ai waifu(?), and get the reply.
@@ -6,6 +10,7 @@
 - [ ] Realtime TTS
 - [ ] Preprocessed SVC songs.
 - [ ] Remake command
+- [ ] Voice driven L2D (voice2face -> Live2D)
 ## Usage
 1. Open the json file with automa
 2. Change the url in the block to the url of your chat webpage
