@@ -13,7 +13,7 @@ last_message = None
 def get_message():
     global last_message
     url = "http://api.live.bilibili.com/ajax/msg?roomid="
-    room = "5365158"
+    room = "114514"
     res = requests.get(url+room).json()
     res = res['data']['room'][-1]
     if res == last_message:
